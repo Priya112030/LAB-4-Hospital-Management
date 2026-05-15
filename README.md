@@ -1,4 +1,6 @@
 # LAB-4-Hospital-Management
+### NAME : PRIYA B
+### Reg.no : 212224230208
 ### AIM:
 To develop the Hospital management System using Star UML tool.
 ### PROBLEM STATEMENT:
